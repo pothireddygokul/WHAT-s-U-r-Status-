@@ -1,5 +1,5 @@
 # WHAT-s-U-r-Status-
-Every day ..Facebook photo status Automation 
+Every day ..Facebook photo status update Automation 
 
 
 $ pip install selenium
